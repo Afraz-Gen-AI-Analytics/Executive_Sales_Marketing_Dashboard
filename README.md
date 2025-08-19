@@ -86,9 +86,11 @@ Analyzes revenue patterns between Jan 2 to Jan 10:
 
 - 4-page navigation for executive summary, category deep dive, sales trends, and customer analysis  
 - Responsive filtering for channel, product, and region-based insights  
-## Project Assets
 
 ---
+
+## Project Assets
+
 - Google Drive Link (Dataset, PBIX File, Presentation and Documentation):  
 [Access Here](https://drive.google.com/drive/folders/1xiUmOV6-GEZs0ePtk8VYg40amyC3i37b)
 
