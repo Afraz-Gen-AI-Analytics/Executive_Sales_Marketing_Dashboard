@@ -89,15 +89,15 @@ Analyzes revenue patterns between Jan 2 to Jan 10:
 
 ---
 
-## Certification
+## Contact
 
-All certifications related to this project can be found here:  
-**Google Drive Certificate Folder:** [Click to View](https://drive.google.com/drive/folders/1lBIx7cKYP-yPIOULMWFjom5vTqQLgJfd?usp=drive_link)
-
+- **Name**: Afraz  
+- **WhatsApp**: +91 89512 97060  
+- **GitHub**: [Afraz-Gen-AI-Analytics](https://github.com/Afraz-Gen-AI-Analytics)  
+- **LinkedIn**: [Afraz Analytics](https://www.linkedin.com/in/afraz-analytics)
+- **Google Drive**: [Portfolio](https://drive.google.com/drive/folders/1szbdGJg2_2VrmIE9xfYVot_eu2GqoM3c)
 ---
 
-## Connect With Me
+## License
 
-- GitHub: [Afraz-Gen-AI-Analytics](https://github.com/Afraz-Gen-AI-Analytics)  
-- LinkedIn: [Afraz on LinkedIn](https://www.linkedin.com/in/afraz-analytics)  
-- WhatsApp: +91 89512 97060  
+This project is intended for educational and portfolio purposes only. All data is mock or anonymized and used solely to demonstrate data analytics and dashboard development skills.
