@@ -103,6 +103,7 @@ Analyzes revenue patterns between Jan 2 to Jan 10:
 - **GitHub**: [Afraz-Gen-AI-Analytics](https://github.com/Afraz-Gen-AI-Analytics)  
 - **LinkedIn**: [Afraz Analytics](https://www.linkedin.com/in/afraz-analytics)
 - **Google Drive**: [Portfolio](https://drive.google.com/drive/folders/1szbdGJg2_2VrmIE9xfYVot_eu2GqoM3c)
+- **Fiverr profile**: [View Here](https://www.fiverr.com/s/2K8Em6V)
 ---
 
 ## License
